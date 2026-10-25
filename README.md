@@ -169,7 +169,7 @@ olist_project/
 │   ├── 03_data_checks.sql     # data quality checks
 │   ├── 04_analysis.sql        # business questions 1–6
 │   └── 05_views.sql           # star-schema views for Power BI
-├── exports/                   # CSV exports of the views
+├── exports/                   # not included (file size) – generate with
 ├── powerbi/
 │   ├── olist_dashboard.pbix
 │   └── olist_dashboard.pdf
